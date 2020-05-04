@@ -1,6 +1,5 @@
 A programming paradigm is a style, or “way,” of programming. 
-(https://cs.lmu.edu/~ray/notes/paradigms/)
-My name is jeff
+(https://cs.lmu.edu/~ray/notes/paradigms/)\n
 
 
 
