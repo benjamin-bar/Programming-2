@@ -1,12 +1,2 @@
-A programming paradigm is a style, or “way,” of programming. 
-(https://cs.lmu.edu/~ray/notes/paradigms/)\n
+# Introduction to structured programming <h2>
 
-
-
-
-
-
-
-
-
-(https://github.com/Efrack09/Efrain-MM)
