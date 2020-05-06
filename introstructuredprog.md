@@ -6,4 +6,6 @@ It uses statements that change a program's state and expresses commands for the 
 **Declarative:**  <br>
 Expresses the logic of a computation without describing its control flow. Declarative programming is a non-imperative style of programming in which programs describe their desired results without explicitly listing commands or steps that must be performed.  <br>  <br>
 ## Types of Imperative and Declarative programming paradigms: <h2>
-###Imperative <h1> 
+##Imperative: <h1> 
+1. **Functional:** Programming paradigm where programs are constructed by applying and composing functions. Proponents of purely functional programming claim that by restricting side effects, programs can have fewer bugs, be easier to debug and test, and be more suited to formal verification.  <br>
+2. **Dataflow:** 
