@@ -26,6 +26,6 @@ http://people.cs.aau.dk/~normark/prog3-03/html/notes/paradigms_themes-paradigms.
 https://en.wikipedia.org/wiki/Object-oriented_programming <br>
 http://people.cs.aau.dk/~normark/prog3-03/html/notes/paradigms_themes-paradigm-overview-section.html <br>
 
-### Git links <h1>
+### Git links: <h1>
 https://github.com/benjamin-bar/Programming-2 <br>
 https://github.com/Efrack09/Programming2
