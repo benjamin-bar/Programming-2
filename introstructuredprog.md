@@ -6,8 +6,12 @@ It uses statements that change a program's state and expresses commands for the 
 **Declarative:**  <br>
 Expresses the logic of a computation without describing its control flow. Declarative programming is a non-imperative style of programming in which programs describe their desired results without explicitly listing commands or steps that must be performed.  <br>  <br>
 ## Types of Imperative and Declarative programming paradigms: <h2>
-### Imperative: <h1> 
+### Declarative: <h1> 
 1. **Functional:** Programming paradigm where programs are constructed by applying and composing functions. Proponents of purely functional programming claim that by restricting side effects, programs can have fewer bugs, be easier to debug and test, and be more suited to formal verification.  <br>
 2. **Dataflow:** In a control flow language, you have a stream of instructions which operate on external data. Conditional execution, jumps and procedure calls change the instruction stream to be executed. In a dataflow language, you have a stream of data which is passed from instruction to instruction to be processed. Conditional execution, jumps and procedure calls route the data to different instructions. <br>
 3. **Logic:** Any program written in a logic programming language is a set of sentences in logical form, expressing facts and rules about some problem domain. <br>
-4. **Template:**  templates are used by a compiler to generate temporary source code, which is merged by the compiler with the rest of the source code and then compiled. The output of these templates include compile-time constants, data structures, and complete functions. <br>
+4. **Template:**  Templates are used by a compiler to generate temporary source code, which is merged by the compiler with the rest of the source code and then compiled. The output of these templates include compile-time constants, data structures, and complete functions. <br>
+5. **Structured:** Its aim is improving the clarity, quality, and development time of a computer program by making extensive use of the structured control flow constructs of selection (if/then/else) and repetition (while and for), block structures, and subroutines. <br>
+### Imperative: <h1>
+1. **Von Neumann:** The term “von Neumann style” refers to programming languages whose design reflects the way a computer actually works: they have variables to represent memory locations, assignment statements to write to those locations, loops and branches to control the program counter, and so on. <br>
+2. **Interpreted:** 
